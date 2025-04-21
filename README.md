@@ -1,3 +1,4 @@
+![schema](./pictures/schema.jpg)
 
 ![sample picture](./pictures/img1.jpg)
 
