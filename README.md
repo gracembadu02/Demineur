@@ -95,5 +95,5 @@
 ## OUTPUT
 ### Sample 1
 ![sample picture](./pictures/img1.jpg)
-### Sample 1
+### Sample 2
 ![sample picture](./pictures/img2.jpg)
